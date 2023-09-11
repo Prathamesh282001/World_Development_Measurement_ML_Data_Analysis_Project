@@ -1,4 +1,4 @@
-# World Development Measurment
+# World Development Measurement
 Created clusters on global development measurement dataset using different unsupervised Clustering machine learning algorithms and performed comparative analysis using PowerBI business intelligence tool. The dataset has information about important economic and development metrics related to various countries across the globe.
 
 ## Libraries & Tools used
